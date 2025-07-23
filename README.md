@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raylib Tetris
 
 A polished, customizable Tetris clone built using [Raylib](https://www.raylib.com/) in C++. Designed as a learning project to explore graphics programming, state machines, object-oriented design, and game development fundamentals.
@@ -43,3 +44,7 @@ A polished, customizable Tetris clone built using [Raylib](https://www.raylib.co
 
 ```bash
 g++ main.cpp game.cpp grid.cpp block.cpp blocks.cpp colors.cpp position.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o tetris
+=======
+# 2203175-Tetris
+🎮 A feature-rich Tetris clone built with Raylib in C++. Includes level selection, glowing blocks, score tracking, pause functionality, and persistent high score saving.
+>>>>>>> fca0b62200e665b05a7f32b4500d95bd91acc80e
